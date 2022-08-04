@@ -1,4 +1,4 @@
-# SHORTISH
+# URL Shortener
 
 This repository contains the source code of a simple URL shortening web application which is used to shorten any URL.
 
